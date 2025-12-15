@@ -1,16 +1,14 @@
-## Hi there 👋
+🌟 About Me:
 
-<!--
-**PRESANNA27/PRESANNA27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I'm **Presanna Kumar S**  
+🚀 Java & DSA Enthusiast | Embedded Systems | Web Development  
+🎓 3rd-year ECE Student (CGPA: 8.93)
 
-Here are some ideas to get you started:
+🏆 Internships: BSNL Chennai | Eaton India Innovation Center  
+💡 Interests:  
+- Data Structures & Algorithms  
+- Embedded Systems & IoT  
+- Backend & Database Development  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Tech Stack:  
+Java | Python | MySQL | HTML | CSS | Arduino | ESP32  
