@@ -1,14 +1,15 @@
 <h1 align="center">🤖 Presanna Kumar S</h1>
 
 <p align="center">
-  <b>AI Practitioner | Machine Learning Engineer | Intelligent Systems Builder</b>
+  <b>AI Practitioner | Embedded Systems Engineer | Full-Stack Developer</b>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI-Practitioner-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Machine-Learning-red?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/NLP-Transformer-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/GPU-CUDA-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI-ML-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NLP-Transformers-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Embedded-Systems-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/VLSI-Low%20Power-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FullStack-Development-purple?style=for-the-badge"/>
 </p>
 
 ---
@@ -18,65 +19,82 @@
 👋 Hi, I'm **Presanna Kumar S**
 
 🎓 3rd Year ECE Student (CGPA: 8.93)  
-🤖 AI Practitioner with hands-on experience in building intelligent systems  
-🔥 Passionate about Machine Learning, NLP, and GPU-accelerated applications  
+🔬 AI Practitioner with hands-on system development experience  
+⚡ Strong foundation in Embedded Systems, VLSI, and Backend Engineering  
 
-I focus on developing **real-world AI systems** rather than just theoretical implementations.
+I work at the intersection of:
 
----
-
-## 🧠 AI Projects
-
-### 🚀 AI Resume Ranking System
-- Built semantic resume screening system using Transformer embeddings
-- Implemented cosine similarity for contextual matching
-- Enabled GPU acceleration using CUDA
-- Developed interactive Streamlit dashboard
-- Integrated skill gap analysis & ATS scoring
+- 🤖 Artificial Intelligence
+- ⚙️ Hardware & Embedded Systems
+- 💻 Full-Stack Development
+- 🧠 Data Structures & Algorithms
 
 ---
 
-## 💼 Technical Interests
+## 🧠 AI & ML Work
 
-- Machine Learning & Deep Learning
-- Natural Language Processing
-- Transformer Architectures
-- Intelligent Automation Systems
-- Backend & Database Systems
+- Built GPU-accelerated AI Resume Ranking System using Transformer embeddings
+- Implemented semantic similarity using cosine similarity
+- Experience with NLP, PyTorch, and HuggingFace models
+- Developed explainable AI-based scoring systems
 
 ---
 
-## 🛠️ Tech Stack
+## ⚙️ Embedded & Hardware Projects
+
+- IoT systems using Arduino & ESP32
+- Sensor-based automation projects
+- LDR-based microcontroller systems
+- Low-power VLSI concept implementations
+
+---
+
+## 💻 Software & Backend Projects
+
+- Secure User Authentication System
+- Database-driven web applications
+- REST-style backend logic
+- Structured problem-solving using Java & Python
+
+---
+
+## 🛠️ Technical Stack
+
+### 🤖 AI / ML
+Python | PyTorch | Sentence Transformers | Scikit-learn | NLP
+
+### ⚙️ Embedded & Hardware
+Arduino | ESP32 | Microcontrollers | IoT | VLSI Concepts
 
 ### 💻 Programming
-Python | Java
-
-### 🤖 AI & ML
-PyTorch | Sentence Transformers | Scikit-learn | HuggingFace
+Java | Python | C++
 
 ### 🌐 Web & Backend
-Streamlit | HTML | CSS | MySQL
+HTML | CSS | MySQL | Streamlit
 
-### ⚙️ Systems
-Arduino | ESP32 | Embedded Systems
-
----
-
-## 🏆 Achievements
-
-- Solved 120+ DSA problems
-- Built GPU-accelerated AI systems
-- Internship experience at BSNL Chennai & Eaton Innovation Center
+### 🧠 Core CS
+Data Structures & Algorithms  
+System Design Basics  
+Database Design  
 
 ---
 
-## 📫 Connect With Me
+## 🏆 Experience
 
-📧 spresannakumarpvt27@gmail.com  
-💼 Open to AI/ML Internship & Research Opportunities  
+- 🏢 BSNL Chennai – Internship
+- 🏢 Eaton India Innovation Center – Technical Exposure
+- 💡 Built AI-powered and hardware-integrated systems
+
+---
+
+## 🎯 Career Direction
+
+Focused on building intelligent, optimized, and scalable systems that combine:
+
+AI + Hardware + Backend Engineering
 
 ---
 
 <p align="center">
-  🚀 Building Intelligent Systems for Real-World Impact
+  🚀 Engineering Intelligent Systems from Silicon to Software
 </p>
