@@ -18,18 +18,19 @@
 
 👋 Hi, I'm **Presanna Kumar S**
 
-🎓 3rd Year ECE Student (CGPA: 8.93)  
-🔬 AI Practitioner with hands-on system development experience  
-⚡ Strong foundation in Embedded Systems, VLSI, and Backend Engineering  
+🎓 3rd Year ECE Student (CGPA: 8.93)
 
-I work at the intersection of:
+🤖 AI enthusiast actively learning and building projects in Machine Learning and NLP  
+⚙️ Exploring Embedded Systems and VLSI concepts  
+🧠 Improving problem-solving skills through consistent DSA practice  
 
-- 🤖 Artificial Intelligence
-- ⚙️ Hardware & Embedded Systems
-- 💻 Full-Stack Development
-- 🧠 Data Structures & Algorithms
+Currently learning and developing skills in:
 
----
+- Machine Learning & Deep Learning
+- NLP & Transformer Models
+- GPU-based model acceleration
+- Embedded Systems & IoT
+- Low-Power VLSI Design
 
 ## 🧠 AI & ML Work
 
