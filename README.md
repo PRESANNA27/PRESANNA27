@@ -68,7 +68,7 @@ Python | PyTorch | Sentence Transformers | Scikit-learn | NLP
 Arduino | ESP32 | Microcontrollers | IoT | VLSI Concepts
 
 ### 💻 Programming
-Java | Python | C++
+Java | Python 
 
 ### 🌐 Web & Backend
 HTML | CSS | MySQL | Streamlit
